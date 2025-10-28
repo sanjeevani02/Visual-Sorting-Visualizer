@@ -1,2 +1,28 @@
-# Visual-Sorting-Visualizer
-A Python Tkinter project to visualize sorting algorithms with animation.
+# 🎨 Visual Sorting Visualizer
+
+A Python Tkinter project to visualize how sorting algorithms work using animation.
+
+---
+
+## 🚀 Features
+- Visualize sorting algorithms step-by-step  
+- Adjustable sorting speed using a slider  
+- Simple and elegant Tkinter-based interface  
+- Supports multiple algorithms:  
+  - Bubble Sort  
+  - Insertion Sort  
+  - Selection Sort  
+
+---
+
+## 🧠 Tech Stack
+- **Language:** Python  
+- **GUI Library:** Tkinter  
+- **IDE Used:** VS Code / IDLE  
+
+---
+
+## ⚙️ How to Run the Project
+1. Clone this repository or download the ZIP:
+   ```bash
+   git clone https://github.com/sanjeevani02/Visual-Sorting-Visualizer.git

@@ -39,5 +39,5 @@ https://github.com/sanjeevani02/Visual-Sorting-Visualizer/blob/main/demo.mp4
 B.Tech (Data Science) Student | Python Developer  
 
 📧 [Connect on LinkedIn](https://www.linkedin.com/in/sanjeevani-mangrole-72b616311)  
-📩 [Email Me]sanjeevani02mangrole@gmail.com)
+📩 [Email Me](sanjeevani02mangrole@gmail.com)
 

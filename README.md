@@ -26,3 +26,7 @@ A Python Tkinter project to visualize how sorting algorithms work using animatio
 1. Clone this repository or download the ZIP:
    ```bash
    git clone https://github.com/sanjeevani02/Visual-Sorting-Visualizer.git
+
+## 🎬 Project Demo
+
+https://github.com/sanjeevani02/Visual-Sorting-Visualizer/blob/main/demo.mp4

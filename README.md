@@ -30,3 +30,14 @@ A Python Tkinter project to visualize how sorting algorithms work using animatio
 ## 🎬 Project Demo
 
 https://github.com/sanjeevani02/Visual-Sorting-Visualizer/blob/main/demo.mp4
+
+---
+
+## 👩‍💻 Author
+
+**Sanjeevani Mangrole**  
+B.Tech (Data Science) Student | Python Developer  
+
+📧 [Connect on LinkedIn](https://www.linkedin.com/in/sanjeevani-mangrole-72b616311)  
+📩 [Email Me]sanjeevani02mangrole@gmail.com)
+
